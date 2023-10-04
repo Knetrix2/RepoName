@@ -1,3 +1,4 @@
 # RepoName
 
 Aciklama
+Lokal Aciklama
